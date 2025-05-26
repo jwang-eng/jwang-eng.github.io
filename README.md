@@ -7,7 +7,7 @@ This repository will hold my assignments for this summer semester.
 # About Me
 ## My Interests: reading, shopping and planting.
 ## Websites I recommend
-* [Vegetable Planting] (https://aptv.org/garden-party/tomato-planting/) � I can learn a lot of useful information from the website.
+* [Vegetable Planting] (https://aptv.org/garden-party/tomato-planting/) Ð I can learn a lot of useful information from the website.
 * [Amazon](https://www.amazon.com) - I can always buy what I need with a good price.
 =======
 Name: Jessie Wang  
@@ -17,8 +17,8 @@ This repository will hold my assignments for this summer semester.
 # About Me
 ## My Interests: reading, shopping and planting.
 ## Websites I recommend
-•	[Vegetable Planting](https://aptv.org/garden-party/tomato-planting/) – I can get a lot of useful information from the website.
+â€¢	[Vegetable Planting](https://aptv.org/garden-party/tomato-planting/) â€“ I can get a lot of useful information from the website.
 
-•	[Amazon](https://www.amazon.com) - I can always buy what I need with a good price.
+â€¢	[Amazon](https://www.amazon.com) - I can always buy what I need with a good price.
 
 >>>>>>> 9dd1101c10a60ee2a1e0a21e823edfeebd70f8d9
